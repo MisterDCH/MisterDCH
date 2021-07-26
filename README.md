@@ -36,6 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterDCH&layout=compact&theme=radical" />
 </p>
 <p style="text-align: center;"align="center">============================================================</p>
+  </details>
   
 ```bash
 $ fetchspecs()
